@@ -1,0 +1,8 @@
+.DS_Store
+!.npmignore
+.git
+*.log
+*~
+*#
+._*
+test/fixtures
