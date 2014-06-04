@@ -1,6 +1,6 @@
 {
   "name": "singlify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "merge all the commonjs modules into one file",
   "main": "lib/index.js",
   "scripts": {
